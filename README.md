@@ -5,7 +5,7 @@ This program repeats your mantra.
 
 To automate:
 
-prayer_wheel.exe --mantra Om Mani Padme Hum
+prayer_wheel.exe --mantra "Om Mani Padme Hum"
 
 To display help:
 
